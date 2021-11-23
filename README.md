@@ -6,28 +6,18 @@
 
 ## Built With
 
-- HTLM
+- HTML
 - CSS
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
 ### Setup
 
-### Install
+To get a local copy up and running follow these simple example steps.
 
-### Usage
-
-### Run tests
-
-### Deployment
+`git clone https://github.com/TimmyChan99/Hello-world`
 
 ## Authors
 
